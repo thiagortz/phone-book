@@ -13,13 +13,6 @@ Service responsible for recording call details and calculating monthly bills for
 | Postman Collection  | https://www.getpostman.com/collections/d01cfacaf47bc40be23c
 | Doc | https://documenter.getpostman.com/view/1939702/RWaKU9bm#da8c693d-d0d5-4a0e-ba97-3a621ecee8c2
 
-### Work Environment
-|  |  |
-|------------|---------|
-| Operating System | Linux - Ubuntu
-| IDE | PyCharm |
-|Libraries | requirements.txt |
-|DB | PostgreSQL |
 ### Installation
 
 ```
